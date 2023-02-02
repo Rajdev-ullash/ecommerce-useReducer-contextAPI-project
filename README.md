@@ -1,29 +1,41 @@
 
-# Simple E-commerce Project
+# Simple E-commerce Project by UseReducer & Context-API
 
-This Project is basically a simple e commerce project. Currently I am learning useReducer and context-api.
-In this project i applied the useReducer and context-api for know my learning curve and reusable component & try to write clean code.
+
+
+This Project is basically a simple e-commerce project. Currently, I am learning useReducer and context-API.
+
+In this project, I applied the useReducer and context-API to know my learning curve and reusable component & try to write clean code.
+
+
+
 
 
 ## Features
 
 - Add to cart
+
 - Remove from cart
-- Increase product item from cart
-- Decrease product item from cart
+
+- Increase product items from the cart
+
+- Decrease product items from the cart
+
 - Add wishlist
-- Remove from wishlist
-- Add product in cart into wishlist
+
+- Remove from the wishlist
+
+- Add the product in the cart into wishlist
+
 
 
 
 ## Tech Stack
 
-React, UseReducer, Context-API, Tailwind Css, React-Router-Dom
+React, UseReducer, Context-API, Tailwind CSS, React-Router-Dom
 
 
-
-## Demo
+## Live link
 
 https://solo-shop.netlify.app/
 
