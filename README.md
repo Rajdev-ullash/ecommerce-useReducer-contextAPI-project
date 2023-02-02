@@ -27,6 +27,10 @@ In this project, I applied the useReducer and context-API to know my learning cu
 
 - Add the product in the cart into wishlist
 
+- Use third party product api
+
+- Dynamically add product rating 
+
 
 
 
